@@ -1,6 +1,6 @@
 # Spotify Search Built with Angular 2
 
-This app help you search your  Music Artists by using the Spotify API.
+This app will help you search your favorite music artists by using the Spotify API.
 
 ## Prerequisites
 
